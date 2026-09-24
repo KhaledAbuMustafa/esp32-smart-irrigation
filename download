@@ -1,0 +1,8 @@
+# Credentials
+secrets.h
+
+# Build / editor
+build/
+.vscode/
+.DS_Store
+Thumbs.db
